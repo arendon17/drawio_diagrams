@@ -29,7 +29,7 @@
           <mxGeometry x="170" y="290" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uaDNKYk8u-UNjfNYOpH2-18" value="utils" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg;" parent="1" vertex="1">
-          <mxGeometry x="650.56" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="590" y="510" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uaDNKYk8u-UNjfNYOpH2-19" value="file_organizer" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg;" parent="1" vertex="1">
           <mxGeometry x="265" y="290" width="40" height="40" as="geometry" />
